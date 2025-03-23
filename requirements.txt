@@ -1,0 +1,12 @@
+# Рекомендації щодо налаштування середовища
+# 1. Створіть віртуальне середовище:
+#    python -m venv env
+# 2. Активуйте віртуальне середовище:
+#    Windows: env\Scripts\activate
+#    Unix/Linux/Mac: source env/bin/activate
+# 3. Встановіть залежності:
+#    pip install -r requirements.txt
+# 4. Рекомендована версія Python: 3.6 або новіша
+
+# Залежності проєкту
+colorama==0.4.6
